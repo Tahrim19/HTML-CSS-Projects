@@ -10,3 +10,4 @@ Some of the projects was made by using these resources
 | Login form |[code](Login_Form)| [demo](https://html-css-projects-6wiv.vercel.app/)
 |website_01 | [code](website_01) | [demo](https://html-css-projects-plk7.vercel.app/)
 | website_02 |[code](website_02)  |[demo](https://html-css-projects-v3gi.vercel.app/)
+| card_hover_effect| [code](card_hover_effect) |[demo](https://css-eta-woad.vercel.app/) 
