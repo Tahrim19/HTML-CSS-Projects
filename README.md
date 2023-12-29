@@ -12,3 +12,4 @@ Some of the projects was made by using these resources
 | website_02 |[code](website_02)  |[demo](https://html-css-projects-v3gi.vercel.app/)
 | card_hover_effect| [code](card_hover_effect) |[demo](https://css-eta-woad.vercel.app/) 
 | product_preview_card |[code](product_preview_card) | [demo](https://css1-lime.vercel.app/)
+| image_hover_effect |[code](image_hover_effect) | [demo](https://css1-jxdx.vercel.app/)
